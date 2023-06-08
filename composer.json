@@ -1,5 +1,5 @@
 {
-	"name": "HeyMehedi/edd-sl-plugin-updater",
+	"name": "heymehedi/edd-sl-plugin-updater",
 	"type": "library",
 	"description": "EDD Updates Handler for WordPress Plugins",
 	"keywords": ["edd", "updates", "wordpress"],
