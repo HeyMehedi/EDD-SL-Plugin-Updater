@@ -14,7 +14,7 @@ This class can only be used with EDD v1.7 and later.
 Add as a requirement using composer:
 
 ```
-$ composer require HeyMehedi/edd-sl-plugin-updater 
+$ composer require heymehedi/edd-sl-plugin-updater 
 ```
 
 Or add it manually to the composer.json file:
@@ -22,7 +22,7 @@ Or add it manually to the composer.json file:
 ```json
 {
   "require": {
-    "HeyMehedi/edd-sl-plugin-updater": "dev-master"
+    "heymehedi/edd-sl-plugin-updater": "dev-master"
   }
 } 
 ```
