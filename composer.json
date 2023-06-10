@@ -4,6 +4,7 @@
 	"description": "EDD Updates Handler for WordPress Plugins",
 	"keywords": ["edd", "updates", "wordpress"],
 	"license": "GPL-2.0-or-later",
+	 "version": "1.1.0",
 	"authors": [
 	  {
 		"name": "EasyDigitalDownloads",
