@@ -21,6 +21,8 @@ class EDD_SL_Plugin_Updater {
 
 	private $api_url     = '';
 	private $api_data    = array();
+
+	private $beta        = false;
 	private $name        = '';
 	private $slug        = '';
 	private $version     = '';
